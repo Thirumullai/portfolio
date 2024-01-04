@@ -1,6 +1,0 @@
-Disease,Fever,Chills,Cough,Sore Throat,Body Aches,Fatigue,Headache,Increased Thirst,Frequent Urination,Unexplained Weight Loss,Shortness of Breath,Loss of Taste/Smell,Joint Pain,Swelling,Stiffness,Chest Pain,Dizziness,Blurred Vision,Weight Loss 
-Influenza (Flu),1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0           
-Hypertension,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0           
-Type 2 Diabetes,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,1,0,0           
-COVID-19,1,0,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0           
-Rheumatoid Arthritis,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1           
