@@ -1,0 +1,15 @@
+.tops{
+   
+
+}
+.btns{
+    height: 50px;
+    width: 90px;
+    border-radius: 5px;
+    background-color: rgba(247, 124, 124, 0.49);
+    
+}
+.borderimage{
+  border: 2px solid white;
+  border-radius: 20%;
+}
